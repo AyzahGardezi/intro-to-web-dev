@@ -18,7 +18,5 @@ else
     darkButton.innerHTML = "<iconify-icon icon=\"material-symbols:light-mode\" style=\"color: white;\" width=\"40\"></iconify-icon>";
     isDark = true;
 }
-
-
 });
 
